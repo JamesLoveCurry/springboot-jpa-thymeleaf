@@ -72,4 +72,9 @@ public class UserController {
 
     }
 
+
+    public void test(){
+        System.out.println("git分支测试");
+    }
+
 }
